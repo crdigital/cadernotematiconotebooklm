@@ -1,6 +1,6 @@
 # Caderno Temático - NotebookLM 🚀
 
-![Link do Projeto](https://notebooklm.google.com/notebook/60a87858-5afa-4ca6-a79f-432a04cdaae6)
+[Link do Projeto](https://notebooklm.google.com/notebook/60a87858-5afa-4ca6-a79f-432a04cdaae6)
 
 Este projeto é um guia de estudos clínicos para tratamento de Onicomicoses na Podologia. Tem como referência pesquisa em diversas fontes(vídeos no youtube, textos encontrados na internet, etc) que tratam do assunto em questão. É um guia para auxiliar no trabalho do profissional de podologia(podólogos e podologistas).
 
