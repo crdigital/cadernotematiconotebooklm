@@ -45,11 +45,3 @@ _Fontes: Mayo Clinic_
 - **Ação Antifúngica/Micótica**: Tratamentos tópicos (esmaltes, soluções, óleos essenciais) aplicados pelo podólogo ou em casa.
 - **Espessamento**: Unhas que ficam grossas e endurecidas ("unha de telha" ou "gavião").
 
-## 🚀 Como Executar o Projeto
-
-Siga os passos abaixo para ter o projeto rodando na sua máquina:
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/crdigital/cadernotematiconotebooklm.git
-   ```
